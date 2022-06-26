@@ -9,4 +9,6 @@ It will perform the following tasks:-
 - Searching for any vulnerable lines of code.
 - Searching for hardcoded secrets.
 
+![Alt Text](MobileHunter.gif)
+
 Any contributions are welcomed.
